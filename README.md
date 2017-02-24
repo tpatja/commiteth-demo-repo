@@ -1,5 +1,4 @@
 # commiteth-demo-repo
 Temporary repository for testing commiteth integration
 
-Some more changes for PR
-AAAA
+This PR is also a claim for bounty of issue #11
